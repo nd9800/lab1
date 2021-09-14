@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.container
+{
+  margin:20px auto;
+  width: 400px;
+  text-align: center;
+}
+.txt
+{
+  border:1px solid black;
+}
+button
+{
+  margin-left:20px;
+  padding:5px;
+  color:white;
+  background-color: #61dafb;
+  border:none;
+  border-radius: 5px;
+}
